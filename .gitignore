@@ -4,3 +4,11 @@
 /db/*.sqlite3-journal
 /log/*.log
 /tmp
+database.yml
+doc/
+*.swp
+*~
+.project
+.DS_Store
+.idea
+.secret
